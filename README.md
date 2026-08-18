@@ -1,37 +1,20 @@
+## 👋 About Me
 
-# Hi, I'm AbdelRahman! 👋
+Hi! I'm **Abdelrahman**, a Computer Engineer and Software Developer from Egypt, currently working as a **Software Engineer Intern at Microsoft**.
 
+I enjoy building practical software and understanding how things work under the hood. My main experience is in the **.NET ecosystem**, particularly **C#, ASP.NET Core/MVC, Entity Framework Core, SQL Server, and REST APIs**, alongside frontend work with **Angular, React, and Next.js**.
 
-## 🚀 About Me
-I'm a recent computer engineering graduate and aspiring full stack .Net Engineer. I specialize in designing and developing fast and responsive web applications.
+### 🛠️ What I work with
 
+* **Backend:** C#, .NET, ASP.NET Core/MVC, Entity Framework Core
+* **Frontend:** Angular, React, Next.js, Tailwind CSS
+* **Databases:** SQL Server, relational database design, SQL
+* **Languages:** C#, C/C++, JavaScript/TypeScript
+* **Tools:** Git, Visual Studio, VS Code, Emacs
+* **Interests:** Software architecture, backend systems, algorithms & data structures, and systems programming
 
-## 🛠 Skills
-* **Backend**
-    * C#
-    * OOP
-    * .Net Core
-    * ASP.Net Core MVC
-    * ASP.Net Core API
-    * Entity Framework Core
-* **Frontend**
-    * HTML
-    * CSS 
-    * Bootstrap
-    * JavaScript
-    * TypeScript
-    * AngularJS
-    
+During my experience at **Microsoft**, I've worked on backend-oriented systems involving **incident ticket processing, scheduling/queuing, and AI-assisted enrichment**, giving me exposure to software development in a large engineering organization.
 
-
-## The state of today
-👩‍💻 I'm currently working on multiple .Net projects to enhance my experience and prepare for the job market
-
-🧠 I'm currently learning different ORMs like Dapper and CI / CD Concepts
-
-👯‍♀️ I'm looking to collaborate on exciting web projects to learn from
-
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-mahmoud00/)
+📍 Alexandria, Egypt
+🎓 B.Sc. Computer Engineering
+💼 Software Engineer Intern @ Microsoft
