@@ -15,6 +15,9 @@ I enjoy building practical software and understanding how things work under the 
 
 During my experience at **Microsoft**, I've worked on backend-oriented systems involving **incident ticket processing, scheduling/queuing, and AI-assisted enrichment**, giving me exposure to software development in a large engineering organization.
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-mahmoud00/)
+
 📍 Alexandria, Egypt
 🎓 B.Sc. Computer Engineering
 💼 Software Engineer Intern @ Microsoft
